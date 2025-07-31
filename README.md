@@ -112,7 +112,7 @@ agentic-rag-qa/
 1. **Run the Streamlit app**
 
 ```bash
-streamlit run streamlit_app/app.py
+streamlit run streamlit_ui/app.py
 ```
 
 2. **In the browser**
