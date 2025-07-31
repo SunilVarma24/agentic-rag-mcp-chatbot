@@ -1,0 +1,9 @@
+venv/
+
+.env
+
+parsers/
+
+notebooks/
+
+temp/
