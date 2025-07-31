@@ -60,7 +60,7 @@ Agents pass structured messages using a custom Model Context Protocol:
 
 ## Project Structure
 ```
-agentic-rag-qa/
+agentic-rag-mcp-chatbot/
 │
 ├── agents/
 │   ├── ingestion_agent.py       # Parses & chunks documents
